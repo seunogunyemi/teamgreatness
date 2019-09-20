@@ -1,0 +1,31 @@
+body			{
+					width: auto;
+					background-image: url();
+					height: 100%;
+				}
+
+.row			{
+					border: 1px solid #ddd;
+					width: 100%;
+					background-image: url('https://images.pexels.com/photos/1420709/pexels-photo-1420709.jpeg?auto=compress&cs=tinysrgb&dpr=3&h=750&w=1260');
+
+				}
+
+.text			{
+					width: 250px;
+					border-radius: 5px
+}
+
+table			{
+					margin-top: 25px;
+					width: 100%;
+}
+
+a 				{
+					text-decoration: none;
+					color: black;
+}
+
+a:hover			{
+					text-decoration: none;
+}
